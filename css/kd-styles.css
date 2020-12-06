@@ -1,0 +1,36 @@
+.text-muted{
+    color: #666;
+    font-size: 0.5em;
+}
+
+.img-30pw{
+    width:30%;
+    height: auto;
+}
+
+.img-40pw{
+    width:40%;
+    height: auto;
+}
+
+.img-50pw{
+    width:50%;
+    height: auto;
+}
+
+.img-ref{
+    color: #444;
+    font-size: 0.3em;
+}
+
+.text-green{
+    color: #41ead4 !important;
+}
+
+.text-yellow{
+    color: #fbff12 !important;
+}
+
+.text-pink{
+    color: #ff206e !important;
+}
